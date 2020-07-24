@@ -4,4 +4,4 @@
   Masonry Portfolio
 </h1>
 
-<h2>A static masonry like portfolio with vanilla JS, CSS and HTML..</h2>
+<h3>A static masonry like portfolio with vanilla JS, CSS and HTML.</h3>
